@@ -1,4 +1,4 @@
-package org.brz;
+package com.brz;
 
 public class Main {
     public static void main(String[] args) {
